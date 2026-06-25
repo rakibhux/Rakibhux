@@ -134,7 +134,7 @@ Automated irrigation system using soil moisture monitoring.
 ## 🌱 Currently Building
 
 ```text
-🚀 Vendzo SaaS Platform
+🚀 Edtech Platform
 🌍 DIGP Global Peace Platform
 ☀️ Smart Solar Monitoring System
 🌱 Arduino Plant Automation
@@ -147,15 +147,15 @@ Automated irrigation system using soil moisture monitoring.
 
 <p align="left">
 
-<a href="https://www.behance.net/YOUR_USERNAME">
+<a href="https://www.behance.net/rakibhux">
 <img src="https://cdn.simpleicons.org/behance" width="40" />
 </a>
 
-<a href="https://dribbble.com/YOUR_USERNAME">
+<a href="https://dribbble.com/rakibhux">
 <img src="https://cdn.simpleicons.org/dribbble" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/rakibhux">
 <img src="https://cdn.simpleicons.org/linkedin" width="40" />
 </a>
 
