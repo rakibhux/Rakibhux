@@ -71,10 +71,6 @@ Global donation platform focused on supporting peace initiatives worldwide.
 
 Modern SaaS inventory and business management platform.
 
-### 💪 Coresa Fitness
-
-Premium fitness landing page with modern UI and conversion-focused design.
-
 ### 🌱 Smart Plant Watering System
 
 Arduino-powered automatic irrigation system with moisture monitoring.
