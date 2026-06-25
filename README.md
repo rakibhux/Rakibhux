@@ -1,18 +1,15 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rakib+Hossain;Product+Designer+%7C+UI%2FUX+Designer;Arduino+Maker+%7C+Creative+Builder;Designing+Digital+Experiences" alt="Typing SVG" />
+<img src="./banner.png" width="100%" />
+
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rakib+Hossain;Product+Designer+%7C+AI+Builder;UI%2FUX+Designer+%7C+Arduino+Maker;Building+Products+That+Matter" alt="Typing SVG" />
 
 <div align="center">
 
-### 🚀 Product Designer • UI/UX Designer • Arduino Maker
+### 🚀 Product Designer • AI Builder • Arduino Maker
 
-Building meaningful digital products, smart hardware projects, and modern user experiences.
+Designing meaningful digital experiences and building products with AI.
 
-<p align="center">
-  <a href="https://github.com/rakibhux">
-    <img src="https://img.shields.io/github/followers/rakibhux?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/rakibhux">
-    <img src="https://img.shields.io/github/stars/rakibhux?affiliations=OWNER&style=for-the-badge" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rakibhux&style=for-the-badge" />
 </p>
 
 </div>
@@ -21,12 +18,26 @@ Building meaningful digital products, smart hardware projects, and modern user e
 
 ## 👨‍💻 About Me
 
-* 🎨 Passionate about UI/UX Design & Product Design
-* 🚀 Building SaaS products and digital experiences
+* 🎨 Product & UI/UX Designer
+* 🤖 Building applications using Claude Code & AI workflows
+* 🚀 Creating SaaS products and startup MVPs
 * 🔧 Arduino & IoT enthusiast
-* 🌱 Currently working on smart automation projects
-* 📱 Creating modern landing pages and design systems
-* 💡 Always exploring new technologies and creative solutions
+* 🌱 Passionate about automation and smart systems
+* 💡 Turning ideas into real products
+
+---
+
+## 🎯 What I Do
+
+🎨 Product Design & UX Strategy
+
+🤖 AI-Powered Product Development
+
+🚀 SaaS & Startup MVP Creation
+
+📱 Landing Page & Design Systems
+
+🔧 Arduino & Smart Automation Projects
 
 ---
 
@@ -38,50 +49,58 @@ Building meaningful digital products, smart hardware projects, and modern user e
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
-### 💻 Frontend
+* Design Systems
+* User Experience Design
+* Wireframing
+* Prototyping
+* Product Strategy
+
+### 🤖 AI Development
+
+* Claude Code
+* ChatGPT
+* Cursor
+* AI-Assisted Development
+* Design-to-Code Workflows
+
+### 🚀 Product Building
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,github,vscode" />
 </p>
 
-### ⚙️ Development & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+* React Applications
+* Next.js Products
+* Startup MVP Development
+* Rapid Prototyping
 
 ### 🔌 Hardware & IoT
 
 * Arduino
-* OLED Display
 * INA219 Energy Monitoring
-* Solar Power Systems
-* Sensor Integration
-* Smart Automation
+* OLED Displays
+* Smart Solar Systems
+* Automation Projects
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 DIGP – Diplomatic Initiatives for Global Peace
+### 🌍 DIGP
 
-Global donation platform focused on supporting peace initiatives worldwide.
-
-### 📦 Vendzo
-
-Modern SaaS inventory and business management platform.
-
-### 🌱 Smart Plant Watering System
-
-Arduino-powered automatic irrigation system with moisture monitoring.
+Diplomatic Initiatives for Global Peace — Donation platform focused on supporting global peace initiatives.
 
 ### ☀️ Smart Solar Monitoring System
 
-Energy tracking dashboard using Arduino, INA219 and OLED displays.
+Arduino-powered energy monitoring solution with real-time analytics.
+
+### 🌱 Smart Plant Watering System
+
+Automated irrigation system using soil moisture monitoring.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakibhux&show_icons=true&theme=transparent&hide_border=true" />
@@ -98,14 +117,6 @@ Energy tracking dashboard using Arduino, INA219 and OLED displays.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakibhux&theme=flat&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -114,15 +125,22 @@ Energy tracking dashboard using Arduino, INA219 and OLED displays.
 
 ---
 
-## 🎯 Current Focus
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rakibhux&theme=flat&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌱 Currently Building
 
 ```text
-✓ SaaS Product Design
-✓ Design Systems
-✓ Landing Page Design
-✓ Arduino Automation
-✓ Smart Solar Projects
-✓ Open Source Contributions
+🚀 Vendzo SaaS Platform
+🌍 DIGP Global Peace Platform
+☀️ Smart Solar Monitoring System
+🌱 Arduino Plant Automation
+🤖 AI-Powered Product Workflows
 ```
 
 ---
@@ -130,25 +148,27 @@ Energy tracking dashboard using Arduino, INA219 and OLED displays.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://dribbble.com/">
-<img src="https://skillicons.dev/icons?i=dribbble" />
+
+<a href="https://www.behance.net/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/behance" width="40" />
 </a>
 
-<a href="https://www.behance.net/">
-<img src="https://cdn.simpleicons.org/behance" width="48" />
+<a href="https://dribbble.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/dribbble" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin" width="40" />
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ Designing Experiences, Building Solutions, Creating Impact ✨
+### ✨ Design. Build. Automate. Repeat.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakibhux\&style=for-the-badge)
+*"Turning ideas into products through design, AI and technology."*
 
 </div>
