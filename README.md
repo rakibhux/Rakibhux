@@ -1,5 +1,3 @@
-//<img src="./banner.png" width="100%" />
-
 # <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rakib+Hossain;Product+Designer+%7C+AI+Builder;UI%2FUX+Designer+%7C+Arduino+Maker;Building+Products+That+Matter" alt="Typing SVG" />
 
 <div align="center">
