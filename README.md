@@ -156,7 +156,7 @@ Automated irrigation system using soil moisture monitoring.
 </a>
 
 <a href="https://www.linkedin.com/in/rakibhux">
-<img src="https://cdn.simpleicons.org/linkedin" width="40" />
+<img src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1784160000&v=beta&t=G9Z9ukgJGl96rZ3fNr1xFrGyB516QP_Z2ppg8j6o_o8" width="40" />
 </a>
 
 </p>
